@@ -170,10 +170,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!-- END OF HEADER -->
 
-<div class="alert alert-danger">
-            <div class="alert-content text-center">
-    GoAnimate For Schools is in process</div>
-</div>
 <script>
     (function(){
         // Log last upsell date.
