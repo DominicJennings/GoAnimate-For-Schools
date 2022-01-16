@@ -42,28 +42,28 @@
 				"Content-Type": "text/html; charset=UTF-8"
 			}
 		},
-		"movies([^?]+html).*": {
+		"/movies([^?]+html).*": {
 			"contentReplace": true,
-			"regexLink": "movies$1",
+			"regexLink": "/movies$1",
 			"headers": {
 				"Content-Type": "text/html; charset=UTF-8"
 			}
 		},
-		"create([^?]+html).*": {
+		"/create([^?]+html).*": {
 			"contentReplace": true,
-			"regexLink": "create$1",
+			"regexLink": "/create$1",
 			"headers": {
 				"Content-Type": "text/html; charset=UTF-8"
 			}
 		},
-		"create([^?]+).*": {
-			"regexLink": "create$1",
+		"/create([^?]+).*": {
+			"regexLink": "/create$1",
 			"headers": {
 				"Content-Type": "text/html; charset=UTF-8"
 			}
 		},
-		"movies([^?]+).*": {
-			"regexLink": "movies$1",
+		"/movies([^?]+).*": {
+			"regexLink": "/movies$1",
 			"headers": {
 				"Content-Type": "text/html; charset=UTF-8"
 			}
