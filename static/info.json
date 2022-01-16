@@ -2,14 +2,14 @@
 	"GET": {
 		"/index.html": {
 			"headers": {
-				"Location": "/dashboard/videos"
+				"Location": "/movies"
 			},
 			"statusCode": 302,
 			"content": ""
 		},
 		"/$": {
 			"headers": {
-				"Location": "/dashboard/videos"
+				"Location": "/movies"
 			},
 			"statusCode": 302,
 			"content": ""
@@ -42,15 +42,28 @@
 				"Content-Type": "text/html; charset=UTF-8"
 			}
 		},
-		"/dashboard/([^?]+html).*": {
+		"movies([^?]+html).*": {
 			"contentReplace": true,
-			"regexLink": "/dashboard/$1",
+			"regexLink": "movies$1",
 			"headers": {
 				"Content-Type": "text/html; charset=UTF-8"
 			}
 		},
-		"/dashboard/([^?]+).*": {
-			"regexLink": "/dashboard/$1",
+		"create([^?]+html).*": {
+			"contentReplace": true,
+			"regexLink": "create$1",
+			"headers": {
+				"Content-Type": "text/html; charset=UTF-8"
+			}
+		},
+		"create([^?]+).*": {
+			"regexLink": "create$1",
+			"headers": {
+				"Content-Type": "text/html; charset=UTF-8"
+			}
+		},
+		"movies([^?]+).*": {
+			"regexLink": "movies$1",
 			"headers": {
 				"Content-Type": "text/html; charset=UTF-8"
 			}
