@@ -34,7 +34,11 @@
 var srv_tz_os = -4, view_name = "go", user_cookie_name = "u_info";
 var user_role = 9;
 </script>
-
+<script>
+function fetchYear() {
+document.getElementById("year").innerHTML = <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/img/site/logo_amazon.png" alt="AWS Partner Network">&nbsp;&nbsp;&nbsp;GoAnimate © new Date().getFullYear();
+}
+</script>
 <script src="https://josephcrosmanplays532.github.io/static/55910a7cd204c37c/go/js/common_combined.js.gz.js"></script>
 <script type="text/javascript" src="https://josephcrosmanplays532.github.io/static/55910a7cd204c37c/go/js/../po/goserver_js-en_US.json.gz.json"></script>
 <script type="text/javascript">
@@ -86,7 +90,7 @@ zE(function() {
 
 
 </head>
-<body class="en_US has-user" >
+<body class="en_US has-user" onload="fetchYear()">
 <script type="text/javascript">
 if (self !== top) {
             jQuery('body').hide();
@@ -402,7 +406,7 @@ var folderCounts = 0;
         </div>
     </div>
 </div>
-<script>document.getElementById("year").innerHTML = new Date().getFullYear();</script>
+
 <div class="modal fade" id="modal-alpha-vm5" tabindex="-1" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -493,10 +497,7 @@ var folderCounts = 0;
                 </div>
             </div>
             <div class="col-sm-6">
-                <div class="pull-right">
-                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/img/site/logo_amazon.png" alt="AWS Partner Network">
-                    &nbsp;&nbsp;&nbsp;
-                    GoAnimate © <span id="year"></span>
+                <div class="pull-right" id="year"> 
                 </div>
             </div>
         </div>
