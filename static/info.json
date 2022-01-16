@@ -42,12 +42,12 @@
 				"Content-Type": "text/html; charset=UTF-8"
 			}
 		},
-		"movies(.*)(html|HTML)$": {
+		"movies(.*)": {
 			"headers": {
 				"Content-Type": "text/html; charset=UTF-8"
 			}
 		},
-		"create(.*)(html|HTML)$": {
+		"create(.*)": {
 			"headers": {
 				"Content-Type": "text/html; charset=UTF-8"
 			}
