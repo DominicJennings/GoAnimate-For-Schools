@@ -1,0 +1,566 @@
+<html><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link rel="dns-prefetch" href="//web.archive.org/web/20191026190138/http://d2qrjeyl4jwu9j.cloudfront.net/">
+
+<title>Video Maker - GoAnimate for Schools</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content="GoAnimate for Schools is a safe environment for students to fully express their creativity through video and a great place for educators to share educational videos with other educators worldwide.">
+
+<meta property="og:site_name" content="GoAnimate for Schools">
+<meta property="fb:app_id" content="122508887813978">
+<meta name="google-site-verification" content="Vta3YTpj6Kx6u4p-EzeMArY0alNItkyUYYMvNM8seVI">
+
+
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700">
+<link rel="stylesheet" href="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/css/common_combined.css.gz.css">
+
+<link rel="stylesheet" href="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/css/videomaker.css.gz.css">
+
+<script>
+var srv_tz_os = -4, view_name = "school", user_cookie_name = "u_info_school";
+var user_country = "US";
+</script>
+
+<!--[if lt IE 9]>
+<script src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/js/lib/html5shiv.js.gz.js"></script>
+<![endif]-->
+<script src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/js/common_combined.js.gz.js"></script>
+<script type="text/javascript" src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/po/goserver_js-en_US.json.gz.json"></script>
+<script type="text/javascript">
+var I18N_LANG = 'en_US';
+var GT = new Gettext({'locale_data': json_locale_data});
+</script>
+<script src="https://ga.vyond.com/ajax/cookie_policy" async=""></script>
+
+<!-- Google Knowledge Graph -->
+<script type="application/ld+json">
+{
+    "@context": "https://web.archive.org/web/20191026190138/http://schema.org",
+    "@type": "Organization",
+    "name": "GoAnimate",
+    "url": "https://web.archive.org/web/20191026190138/http://goanimate.com",
+    "logo": "https://web.archive.org/web/20191026190138/http://gawpstorage.s3.amazonaws.com/img/google_knowledge_graph_logo.jpg",
+    "sameAs": [
+        "https://web.archive.org/web/20191026190138/http://www.facebook.com/GoAnimateInc",
+        "https://web.archive.org/web/20191026190138/http://twitter.com/GoAnimate",
+        "https://web.archive.org/web/20191026190138/http://www.linkedin.com/company/goanimate",
+        "https://web.archive.org/web/20191026190138/http://plus.google.com/+goanimate",
+        "https://web.archive.org/web/20191026190138/http://www.youtube.com/user/GoAnimate"
+    ]
+}
+</script>
+
+</head>
+<body class="page-action-videomaker" cz-shortcut-listen="true">
+<script type="text/javascript">
+if (self !== top) {
+            jQuery('body').hide();
+    }
+</script>
+
+<nav class="navbar site-nav" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            <a class="navbar-brand" href="/" title="GoAnimate for Schools">
+                <img alt="GoAnimate for Schools" src="https://josephcrosmanplays532.github.io/static/a58ff843b3f92207/school/img/site/logo4s.png">
+            </a>
+        </div>
+        <ul class="nav site-nav-alert-nav hidden-xs">
+            <li>
+                <a href="/messages" title="Messages"><span class="glyphicon glyphicon-envelope"></span><span class="count"></span></a>
+            </li>
+            <li>
+                <a href="/notifications" title="Notifications"><span class="glyphicon glyphicon-bell"></span><span class="count"></span></a>
+            </li>
+        </ul>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" href="#" data-toggle="dropdown">Your Account <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/student">Dashboard</a></li>
+                        <li><a href="/movies">Your Videos</a></li>
+                        <li class="divider"></li>
+                        <li><a href="/account">Account Settings</a></li>
+                        <li><a href="/profile/0DyHqK6Yj9dM">Your Profile</a></li>
+                        <li class="divider"></li>
+                        <li><a class="logout-link" href="/logoff">Logout</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" href="#" data-toggle="dropdown">Explore <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/students">Students</a></li>
+                        <li><a href="/teachers">Teachers</a></li>
+                        <li><a href="/videos">Videos</a></li>
+                        <li class="divider"></li>
+                        <li><a href="">Educator Experiences</a></li>
+                        <li><a href="/public_faq">FAQ</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a class="hidden-sm hidden-md hidden-lg" href="/create">Make a Video</a>
+                    <span class="site-nav-btn hidden-xs"><a class="btn btn-green" href="/create">Make a Video</a></span>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="create-header">
+        <h1 class="h3">Select a Theme</h1>
+    </div>
+
+    
+
+<div class="themes row" id="themes">
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-business">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/img/videomaker/themes/Business_Friendly.jpg" alt="Business Friendly">
+                </div>
+                <div class="theme-meat">
+                    <h3>Business Friendly</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/business-friendly');" title="" data-original-title="Video Maker">Make a Video</button>
+                        <a class="btn btn-default" href="/videomaker/quickvideo/business" title="" data-original-title="Template"><i class="i-qvm"></i></a>
+                        <a class="btn btn-default" href="/charactercreator/business" title="" data-original-title="Character Creator"><i class="i-cc"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-whiteboard">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/img/videomaker/themes/Whiteboard_Animation.jpg" alt="Whiteboard Animation">
+                </div>
+                <div class="theme-meat">
+                    <h3>Whiteboard Animation</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/whiteboard');" title="" data-original-title="Video Maker">Make a Video</button>
+                        <a class="btn btn-default" href="/charactercreator/whiteboard" title="" data-original-title="Character Creator"><i class="i-cc"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-infographics">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/img/videomaker/themes/businessAsVisual.jpg" alt="Video Infographics">
+                </div>
+                <div class="theme-meat">
+                    <h3>Video Infographics</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/infographics');" title="" data-original-title="Video Maker">Make a Video</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+    </div><div class="themes row" id="themes">
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-business">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/img/videomaker/themes/Commoncraft.jpg" alt="Business Friendly">
+                </div>
+                <div class="theme-meat">
+                    <h3>Common Craft</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/commoncraft');" title="" data-original-title="Video Maker">Make a Video</button>
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-whiteboard">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/img/videomaker/themes/Comedy_World.jpg" alt="Whiteboard Animation">
+                </div>
+                <div class="theme-meat">
+                    <h3>Comedy World</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/custom');" title="" data-original-title="Video Maker">Make a Video</button>
+                        <a class="btn btn-default" href="/videomaker/quickvideo/everydaylife" title="" data-original-title="Template"><i class="i-qvm"></i></a>
+                        <a class="btn btn-default" href="/charactercreator/family" title="" data-original-title="Character Creator"><i class="i-cc"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-infographics">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/img/videomaker/themes/lil_Peepz.jpg" alt="Video Infographics">
+                </div>
+                <div class="theme-meat">
+                    <h3>Lil' Peepz</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/action');" title="" data-original-title="Video Maker">Make a Video</button>
+                        <a class="btn btn-default" href="/videomaker/quickvideo/lillPeepz" title="" data-original-title="Template"><i class="i-qvm"></i></a>
+                        <a class="btn btn-default" href="/charactercreator/cc2" title="" data-original-title="Character Creator"><i class="i-cc"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+    </div>
+
+<div class="themes row" id="themes">
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-business">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/img/videomaker/themes/Stickly_Business.jpg" alt="Business Friendly">
+                </div>
+                <div class="theme-meat">
+                    <h3>Stickly Business</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/sticklybiz');" title="" data-original-title="Video Maker">Make a Video</button>
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-whiteboard">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/static/594e2dd8970e70e1/go/img/videomaker/themes/Cartoon_Classics.jpg" alt="Whiteboard Animation">
+                </div>
+                <div class="theme-meat">
+                    <h3>Cartoon Classics</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/retro');" title="" data-original-title="Video Maker">Make a Video</button>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-infographics">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/static/594e2dd8970e70e1/go/img/videomaker/themes/Election_2012.jpg" alt="Video Infographics">
+                </div>
+                <div class="theme-meat">
+                    <h3>White Houserz</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/election');" title="" data-original-title="Video Maker">Make a Video</button>
+                        <a class="btn btn-default" href="/videomaker/quickvideo/infographics" title="" data-original-title="Template"><i class="i-qvm"></i></a>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+    </div>
+
+
+
+<div class="themes row" id="themes">
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-business">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/static/594e2dd8970e70e1/go/img/videomaker/themes/Anime.jpg" alt="Business Friendly">
+                </div>
+                <div class="theme-meat">
+                    <h3>Anime</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/anime');" title="" data-original-title="Video Maker">Make a Video</button>
+                        <a class="btn btn-default" href="/videomaker/quickvideo/anime" title="" data-original-title="Template"><i class="i-qvm"></i></a>
+                        <a class="btn btn-default" href="/charactercreator/anime" title="" data-original-title="Character Creator"><i class="i-cc"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-whiteboard">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/img/videomaker/themes/Ninja_Anime.jpg" alt="Whiteboard Animation">
+                </div>
+                <div class="theme-meat">
+                    <h3>Ninja Anime</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/ninjaanime');" title="" data-original-title="Video Maker">Make a Video</button>
+                        <a class="btn btn-default" href="/charactercreator/ninjaanime" title="" data-original-title="Character Creator"><i class="i-cc"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-infographics">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/img/videomaker/themes/Space_Citizens.jpg" alt="Video Infographics">
+                </div>
+                <div class="theme-meat">
+                    <h3>Space Citizens</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/spacecitizen');" title="" data-original-title="Video Maker">Make a Video</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+    </div>
+
+<div class="themes row" id="themes">
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-business">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/img/videomaker/themes/Chibi_Peepz.jpg" alt="Business Friendly">
+                </div>
+                <div class="theme-meat">
+                    <h3>Chibi Peepz</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/chibi');" title="" data-original-title="Video Maker">Make a Video</button>
+                        <a class="btn btn-default" href="/videomaker/quickvideo/chibi" title="" data-original-title="Template"><i class="i-qvm"></i></a>
+                        <a class="btn btn-default" href="/charactercreator/chibi" title="" data-original-title="Character Creator"><i class="i-cc"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-whiteboard">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/img/videomaker/themes/Chibi_Ninjas.jpg" alt="Whiteboard Animation">
+                </div>
+                <div class="theme-meat">
+                    <h3>Chibi Ninjas</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/ninja');" title="" data-original-title="Video Maker">Make a Video</button>
+                        <a class="btn btn-default" href="/videomaker/quickvideo/ninja" title="" data-original-title="Template"><i class="i-qvm"></i></a>
+                        <a class="btn btn-default" href="/charactercreator/ninja" title="" data-original-title="Character Creator"><i class="i-cc"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-infographics">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/img/videomaker/themes/Space_Peepz.jpg" alt="Video Infographics">
+                </div>
+                <div class="theme-meat">
+                    <h3>Space Peepz</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/space');" title="" data-original-title="Video Maker">Make a Video</button>
+                        <a class="btn btn-default" href="/videomaker/quickvideo/space" title="" data-original-title="Template"><i class="i-qvm"></i></a>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+    </div><div class="themes row" id="themes">
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-business">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/img/videomaker/themes/Stick_Figure.jpg" alt="Business Friendly">
+                </div>
+                <div class="theme-meat">
+                    <h3>Stick Figure</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/stick');" title="" data-original-title="Video Maker">Make a Video</button>
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-whiteboard">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/img/videomaker/themes/wildlife.jpg" alt="Whiteboard Animation">
+                </div>
+                <div class="theme-meat">
+                    <h3>Wildlife</h3>
+                    <div class="apps">
+                        
+                        <a class="btn btn-default" href="/videomaker/quickvideo/wildlife" title="" data-original-title="Template"><i class="i-qvm"></i></a>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+        <div class="theme" id="thm-infographics">
+            <div class="theme-cell">
+                <div class="theme-cover launch">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/img/videomaker/themes/Lil_Petz_World.jpg" alt="Video Infographics">
+                </div>
+                <div class="theme-meat">
+                    <h3>Lil' Petz World</h3>
+                    <div class="apps">
+                        <button class="btn btn-orange" type="button" onclick="fullscreenStudio('/videomaker/full/animal');" title="" data-original-title="Video Maker">Make a Video</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+    </div>
+</div>
+
+<script src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/js/video_maker.js.gz.js"></script>
+
+<footer class="site-footer hidden-print">
+    <div class="container">
+        <div class="row site-footer-nav">
+            <div class="col-sm-3">
+                <div class="site-footer-nav-col">
+                    <h5>About GoAnimate</h5>
+                    <ul class="list-unstyled">
+                    <li><a href="/public_faq">Recently Asked Questions</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="site-footer-nav-col">
+                    <h5>GoAnimate Solutions</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="" target="_blank">GoAnimate for Schools</a></li>
+                        <li class="hidden-xs">&nbsp;</li>
+                        <li class="hidden-xs">&nbsp;</li>
+                        <li class="hidden-xs">&nbsp;</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="site-footer-nav-col">
+                    <h5>Usage Guidelines</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="/termsofuse">Terms of Service</a></li>
+                        <li><a href="/privacy">Privacy Policy</a></li>
+                        <li class="hidden-xs">&nbsp;</li>
+                        <li class="hidden-xs">&nbsp;</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="site-footer-nav-col">
+                    <h5>Getting Help</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://discord.io/goanimate4schools">Discord Server</a></li>
+                        <li class="hidden-xs">&nbsp;</li>
+                        <li class="hidden-xs">&nbsp;</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <hr>
+
+        <div class="row site-footer-copyright">
+            <div class="col-sm-6">
+                <div class="site-footer-socials-container">
+                    Follow us on:
+                    <ul class="site-footer-socials clearfix">
+                        <li><a class="facebook" href="https://www.facebook.com/GoAnimateInc">Facebook</a></li>
+                        <li><a class="twitter" href="https://twitter.com/Go4Schools">Twitter</a></li>
+                        <li><a class="linkedin" href="https://www.linkedin.com/company/goanimate">Linked In</a></li>
+                        <li><a class="youtube" href="https://www.youtube.com/user/GoAnimate">YouTube</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="pull-right">
+                    <img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/img/site/logo_amazon.png" alt="AWS Partner Network">
+                    &nbsp;&nbsp;&nbsp;
+                    GoAnimate | Joseph Animate 2021 © 2018
+                </div>
+            </div>
+        </div>
+
+    </div>
+</footer>
+
+
+<div id="studio_container" style="display: none;">
+    <div id="studio_holder"><!-- Full Screen Studio -->
+        <div style="top: 50%; position: relative;">
+            You can't use GoAnimate because Flash might be disabled. <a href="https://get.adobe.com/flashplayer/">Enable Flash</a>.
+        </div>
+    </div>
+</div>
+
+
+
+</body></html><!--
+     FILE ARCHIVED ON 19:01:38 Oct 26, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:05:48 Jan 17, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 324.77
+  exclusion.robots: 172.93
+  exclusion.robots.policy: 172.918
+  xauthn.identify: 111.855
+  xauthn.chkprivs: 60.762
+  RedisCDXSource: 3.993
+  esindex: 0.01
+  LoadShardBlock: 125.64 (3)
+  PetaboxLoader3.datanode: 152.988 (4)
+  CDXLines.iter: 19.488 (3)
+  load_resource: 97.364
+  PetaboxLoader3.resolve: 29.399
+-->
